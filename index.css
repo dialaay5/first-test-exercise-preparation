@@ -1,0 +1,33 @@
+body {
+    background-image: url("image/background.jpg");
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(53, 77, 44);
+    padding-top: 50px;
+}
+
+.div1 {
+    background-color: rgb(226, 255, 218);
+    height: 230px;
+    width: 950px;
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+    font-size: x-large;
+}
+
+.button {
+    height: 70px;
+    width: 900px;
+}
+
+.div2 {
+    text-align: center;
+}
+
+.clickedOn {
+    background-color: rgb(93, 149, 91) !important;
+  }
